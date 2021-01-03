@@ -3,9 +3,10 @@
     <archetypes>
         <archetype>
             <groupId>com.nerdhead</groupId>
-            <artifactId>maven-archetype-webapp-custom</artifactId>
+            <artifactId>java-archetype-webapp-custom</artifactId>
             <version>1.0.0</version>
             <description>This archetype generates for personal use from NERDHEAD.</description>
             <repository>https://github.com/NERDHEAD/maven-archetypes-webapp-custom</repository>
         </archetype>
+    </archetypes>
 </archetype-catalog>
