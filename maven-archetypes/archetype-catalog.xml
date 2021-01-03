@@ -6,7 +6,7 @@
             <artifactId>maven-archetype-webapp-custom</artifactId>
             <version>1.0.0</version>
             <description>This archetype generates for personal use from NERDHEAD.</description>
-            <repository>https://github.com/NERDHEAD/maven-archetypes/maven-archetypes-webapp-custom</repository>
+            <repository>https://https://github.com/NERDHEAD/maven-archetypes/tree/main/maven-archetypes-webapp-custom</repository>
         </archetype>
     </archetypes>
 </archetype-catalog>
